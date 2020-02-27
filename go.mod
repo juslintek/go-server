@@ -1,3 +1,5 @@
-module juslintek.dev/user/juslintek
+module juslintek/go-server
 
 go 1.14
+
+require github.com/google/go-cmp v0.4.0
